@@ -406,7 +406,7 @@ body.menu-active #Header .logo {
 	width: 33.33%;
 	float: left;
 	position: relative;
-	overflow: visible;
+	overflow: auto;
 	-webkit-transform: scale(0);
   transform: scale(0);
   -webkit-transition: all 350ms ease;
